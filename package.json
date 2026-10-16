@@ -44,7 +44,7 @@
     "@sanity/types": "latest",
     "@sanity/ui": "latest",
     "@tailwindcss/typography": "latest",
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.6.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "1.0.4",
